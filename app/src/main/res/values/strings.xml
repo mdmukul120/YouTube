@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ClipTube</string>
+    <string name="tab_browse">Browse</string>
+    <string name="tab_downloads">Downloads</string>
+    <string name="download_button">Download</string>
+    <string name="select_resolution">Select Resolution</string>
+    <string name="status_preparing">Preparing download…</string>
+    <string name="status_downloading">Downloading…</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_failed">Failed</string>
+    <string name="no_downloads_yet">No downloaded videos yet</string>
+    <string name="no_downloads_desc">Browse YouTube and tap Download on any video to save it for offline watching.</string>
+    <string name="delete_confirm_title">Delete Video?</string>
+    <string name="delete_confirm_msg">Are you sure you want to remove this video from your offline library?</string>
+    <string name="play">Play</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+</resources>

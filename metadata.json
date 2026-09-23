@@ -1,0 +1,6 @@
+{
+  "name": "ClipTube",
+  "description": "YouTube browser and video downloader with resolution picker, custom in-app download progress, offline file management, and built-in video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
